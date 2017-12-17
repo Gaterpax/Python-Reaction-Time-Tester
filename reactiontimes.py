@@ -1,3 +1,5 @@
+# Made by Gaterpax; @_gaterpax_
+
 import pygame
 from datetime import datetime
 import time
